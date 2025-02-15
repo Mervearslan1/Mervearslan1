@@ -30,4 +30,4 @@ Java ve backend geliştirme üzerine çalışıyorum
 
 
 
-![snake gif](https://github.com/Mervearslan1/Mervearslan1/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Mervearslan1/Mervearslan1//blob/output/github-snake-dark.svg)
