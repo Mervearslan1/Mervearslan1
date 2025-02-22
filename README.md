@@ -29,5 +29,3 @@ Java ve backend geliştirme üzerine çalışıyorum
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-
-![snake gif](https://github.com/Mervearslan1/Mervearslan1//blob/output/github-snake-dark.svg)
