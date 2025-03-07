@@ -1,10 +1,9 @@
-##💫 About Me:
-Java ve backend geliştirme üzerine çalışıyorum 
+##💫 About Me : I work on Java core and backend development.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mervesoftware) [
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Mervesoftware) 
+[![LinkedIn](https://www.linkedin.com/in/mervesoftware) [
+![YouTube](https://www.youtube.com/@MerveSoftware) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
